@@ -1,0 +1,7 @@
+El factorial de un número entero es el producto de todos los números naturales anteriores (excepto 0) y él mismo.
+Por ejemplo, factorial de:
+1! = 1
+2! = 2 * 1 = 2
+3! = 3 * 2 * 1 = 6
+4! = 4 * 3 * 2 * 1 = 24
+5! = 5  * 4 * 3 * 2 * 1 = 120

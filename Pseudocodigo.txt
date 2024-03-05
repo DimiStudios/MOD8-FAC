@@ -1,0 +1,7 @@
+Inicio
+  Leer un número desde el usuario y almacenarlo en la variable "number".
+  Inicializar la variable "factorial" en 1.
+  Para cada valor "i" en el rango desde 1 hasta el número ingresado por el usuario:
+    Multiplicar "factorial" por "i" y almacenar el resultado en "factorial".
+  Escribir "El factorial de" seguido del número ingresado por el usuario y luego "es" seguido del valor de "factorial".
+Fin
